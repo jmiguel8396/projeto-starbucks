@@ -115,8 +115,8 @@
     {
         position: absolute;
         display: flex;
-        justify-content: ;
-        align-items: ;
+        justify-content: center ;
+        align-items: center ;
         flex-direction: row;
         max-width: 35px;
     }
